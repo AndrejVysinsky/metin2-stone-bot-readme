@@ -54,4 +54,4 @@ Captcha solving is not happening in this application as OCR algorithms by defaul
 
 ### Showcase
 
- 
+[![Stone bot](https://img.youtube.com/vi/nYjPW6Mf3tA/0.jpg)](https://www.youtube.com/watch?v=nYjPW6Mf3tA)
